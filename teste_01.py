@@ -1,1 +1,0 @@
-print("Instituto MR - Minha Rolla")

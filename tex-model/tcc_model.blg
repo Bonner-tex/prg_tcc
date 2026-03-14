@@ -1,0 +1,15 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'tcc_model.blg'
+[308] biber-MSWIN64:342> INFO - === 
+[400] Biber.pm:421> INFO - Reading 'tcc_model.bcf'
+[746] Biber.pm:1002> INFO - Found 1 citekeys in bib section 0
+[792] Biber.pm:4487> INFO - Processing section 0
+[811] Biber.pm:4678> INFO - Looking for bibtex file 'assets/referencias/references.bib' for section 0
+[930] bibtex.pm:1713> INFO - LaTeX decoding ...
+[939] bibtex.pm:1519> INFO - Found BibTeX data source 'assets/referencias/references.bib'
+[1031] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1031] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1031] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'pt-BR'
+[1031] Biber.pm:4313> INFO - No sort tailoring available for locale 'pt-BR'
+[1035] bbl.pm:676> INFO - Writing 'tcc_model.bbl' with encoding 'UTF-8'
+[1036] bbl.pm:779> INFO - Output to tcc_model.bbl
