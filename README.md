@@ -1,7 +1,6 @@
-# prg_tcc
 # Programas do meu Trabalho de Conclusão de Curso
 
-Por Willian Bonner
+`Por Willian Bonner`
 
 Este repositório contém os códigos desenvolvidos para meu Trabalho de Conclusão de Curso, que aborda sistemas dinâmicos e suas aplicações em modelagens de sistemas laser. Os códigos geram exemplos e resultados numéricos discutidos no texto.
 
