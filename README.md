@@ -1,6 +1,5 @@
 # <center> Programas do meu Trabalho de Conclusão de Curso
 
-<<<<<<< HEAD
 `Por Willian Bonner`
 
 Meu trabalho de conclusão de curso foi basicamente estudar Sistemas Dinâmicos e utilizar modelagens matemáticas de sistemas lasers para mostrar algumas dessas características. Resumidamente, para quem não leu o TCC, sistemas dinâmicos são sistemas de equações diferenciais que são escritos da forma de campos vetoriais. Separamos em dois tipos principais para facilidar os estudos:
