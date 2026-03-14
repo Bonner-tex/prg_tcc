@@ -1,3 +1,4 @@
+# prg_tcc
 # Programas do meu Trabalho de Conclusão de Curso
 
 Por Willian Bonner
@@ -27,11 +28,11 @@ Neste código estão disponíveis os trechos utilizados para gerar as imagens do
 
 #### 1.2. Resultados Maxwell-Bloch: `code_results_MB`
 
-Este código realiza a análise numérica de um sistema laser baseado nas equações de Maxwell-Bloch, transformadas no sistema de Lorenz. No TCC, é referenciado como "**Código 02**". O código recebe parâmetros como σ, b e r; no trabalho, utilizamos os parâmetros do laser de amônia (NH3). Também é analisado um sistema reduzido de Maxwell-Bloch.
+Este código realiza a análise numérica de um sistema laser baseado nas equações de Maxwell-Bloch, transformadas no sistema de Lorenz. No TCC, é referenciado como "Código 02". O código recebe parâmetros como σ, b e r; no trabalho, utilizamos os parâmetros do laser de amônia (NH3). Também é analisado um sistema reduzido de Maxwell-Bloch.
 
 #### 1.3. Resultados Equações de Taxa: `code_results_TX`
 
-Este código faz a análise numérica de um sistema laser de três níveis descrito por equações de taxa. No trabalho, este código está referenciado como "**Código 01**".
+Este código faz a análise numérica de um sistema laser de três níveis descrito por equações de taxa.
 
 ### 2. Modelo do TCC em LaTeX: `tex-model`
 
