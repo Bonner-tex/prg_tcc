@@ -4,7 +4,7 @@
 
 Meu trabalho de conclusão de curso foi basicamente estudar Sistemas Dinâmicos e utilizar modelagens matemáticas de sistemas lasers para mostrar algumas dessas características. Resumidamente, para quem não leu o TCC, sistemas dinâmicos são sistemas de equações diferenciais que são escritos da forma de campos vetoriais. Separamos em dois tipos principais para facilidar os estudos:
 
-1. **Sistemas lineares:** São dados por $$\dot{x}_i = \sum_{j=1}^{n} a_{ij}x_j + b_i,$$
+1. **Sistemas lineares:** São dados por $\dot{x}_i = \sum_{j=1}^{n} a_{ij}x_j + b_i,$
 onde $b_i$ é um vetor constante. Esse sistema completo pode escrito como um campo vetorial da seguinte forma:$$\dot{\mathbf{x}} = \big(\dot{x}_1, \dot{x}_2, \dots, \dot{x}_n \big).$$
 
 2. **Sistemas não lineares:** São sistemas dados por$$\dot{\mathbf{x}} = \mathbf{F}(x_1, x_2, \dots, x_n),$$
